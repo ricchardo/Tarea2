@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1413410420 source:c:\users\ricardo\documents\universidad\progra3\progra3tarea2-master\progra3tarea2-master\evaluador.cpp
+	"Evaluador.h"
+
+1413410420 c:\users\ricardo\documents\universidad\progra3\progra3tarea2-master\progra3tarea2-master\evaluador.h
+	<iostream>
+	<stack>
+
+1414208327 source:c:\users\ricardo\documents\universidad\progra3\progra3tarea2-master\progra3tarea2-master\main.cpp
+	"Evaluador.h"
+	<iostream>
+
